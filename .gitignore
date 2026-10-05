@@ -22,3 +22,4 @@ experiment1/matched_retention_slopes_mean.csv
 github_release/
 build_github_release.sh
 gitignore_for_release
+experiment2_experiment3/Claude outputs/
