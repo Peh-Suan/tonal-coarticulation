@@ -1,0 +1,24 @@
+.DS_Store
+._*
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+
+# Audio and large derived data — archived separately (Zenodo)
+experiment1/raw_data/
+experiment1/raw_data.zip
+experiment2_experiment3/raw_data/
+experiment2_experiment3/raw_data.zip
+synthesis/
+
+# Superseded analysis scripts from the previous round
+experiment1/data_analysis.R
+experiment1/data_analysis.Rmd
+experiment1/data_analysis.pdf
+experiment1/temp.ipynb
+experiment1/matched_retention_slopes_mean.csv
+github_release/
+build_github_release.sh
+gitignore_for_release

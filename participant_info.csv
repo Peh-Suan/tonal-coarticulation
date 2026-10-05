@@ -1,0 +1,44 @@
+group,fluency,code,sex,age,experiment_date,hometown,region
+bilingual,10,P1,M,26,20220922,Chiayi,South
+bilingual,6,P2,F,22,20220922,Tainan,South
+monolingual,0,P3,F,23,20220923,New Taipei,North
+monolingual,0,P4,F,22,20220923,New Taipei,North
+monolingual,0,P5,F,24,20220923,Taichung,Central
+monolingual,0,P6,M,26,20220925,New Taipei,North
+bilingual,8,P7,F,27,20220925,Tainan,South
+monolingual,0,P8,M,20,20220926,Taipei,North
+monolingual,0,P9,M,24,20220926,Hsinchu,North
+monolingual,0,P10,M,22,20220927,Taipei,North
+monolingual,0,P11,F,20,20221001,Taipei,North
+monolingual,0,P12,F,24,20221001,New Taipei,North
+monolingual,0,P13,F,22,20221001,Taipei,North
+bilingual,8,P14,F,21,20221001,Tainan,South
+bilingual,5,P15,F,22,20221002,Tainan,South
+bilingual,7,P16,F,26,20221003,Nantou,Central
+bilingual,6,P17,M,20,20221003,Yunlin,South
+bilingual,6,P18,F,21,20221003,Tainan,South
+bilingual,3,P19,F,22,20221004,Taichung,Central
+monolingual,0,P20,M,27,20221003,Taichung,Central
+monolingual,0,P21,F,22,20221006,Taipei,North
+monolingual,0,P22,M,22,20221007,Taipei,North
+bilingual,4,P23,F,20,20221007,New Taipei,North
+bilingual,7,P24,M,22,20221012,Tainan,South
+bilingual,8,P25,F,20,20221013,Taoyuan,North
+bilingual,7,P26,F,25,20221013,Kaohsiung,South
+bilingual,7,P27,F,22,20221013,Taichung,Central
+bilingual,10,P28,M,24,20221013,Taichung,Central
+bilingual,6,P29,F,24,20221013,Taichung,Central
+bilingual,4,P30,M,20,20221014,Hsinchu,North
+bilingual,6,P31,M,23,20221014,Taichung,Central
+bilingual,8,P32,F,23,20221014,Tainan,South
+monolingual,0,P33,F,22,20221014,New Taipei,North
+bilingual,6,P34,F,21,20221015,Taipei,North
+bilingual,8,P35,M,21,20221015,Taipei,North
+bilingual,8,P36,F,21,20221015,Chiayi,South
+bilingual,8,P37,M,20,20221016,New Taipei,North
+bilingual,6,P38,F,21,20221016,Kaohsiung,South
+bilingual,9,P39,M,20,20221016,Chiayi,South
+monolingual,0,P40,F,21,20221016,Taipei,North
+bilingual,4,P41,M,25,20221017,Changhua,Central
+bilingual,9,P42,F,24,20221022,Kaohsiung,South
+bilingual,7,P43,F,21,20221026,New Taipei,North
